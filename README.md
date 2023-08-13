@@ -5,22 +5,20 @@
 
 #### 🛠️ Toolset
 
-<br/>
 <div>
     <img src="./arch.svg" height="60" width="60"><img src="./code.svg" height="60" width="60">  <img src="./qtile.png" height="60" width="105"><img src="./firefox.svg" height="60" width="60"> 
 </div>
+<br />
 
 #### 👨‍💻 Languages
 
-<br/>
-
 [![My Skills](https://skillicons.dev/icons?i=ts,php,nodejs,mysql,mongodb)](https://skillicons.dev)
+<br />
 
-#### 🛠️ Toolset
-
-<br/>
+#### 🔥 Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+<br />
 
 <br/><hr/>
 
