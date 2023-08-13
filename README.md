@@ -18,13 +18,13 @@
 
 #### 💬 Let's chat
 
-<a href="https://salesp07.github.io" target="_blank">
+<a href="mohammedd.com" target="_blank">
     <img src="https://img.shields.io/badge/website-24292E?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /> 
 </a>
-<a href="https://salesp07.github.io" target="_blank">
+<a href="t.me/mohammed_jabbar_019" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-24292E?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> 
 </a>
-<a href="https://salesp07.github.io" target="_blank">
+<a href="twitter.com/Mohammedjabbar0" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-24292E?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
 </a>
 
