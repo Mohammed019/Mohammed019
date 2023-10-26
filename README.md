@@ -2,21 +2,21 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=35&duration=2000&pause=800&color=ADD8E6&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohammed+Jabbar" alt="Typing SVG" /></a>
 <hr/><br/>
 
-#### 🛠️ Toolset
+**🛠️ Toolset**
 
 <img src="./arch.svg" height="60" width="60"><img src="./code.svg" height="60" width="60"> <img src="./qtile.png" height="60" width="105"><img src="./firefox.svg" height="60" width="60">
 
-#### 👨‍💻 Languages
+**👨‍💻 Languages**
 
 [![My Skills](https://skillicons.dev/icons?i=ts,php,nodejs,mysql,mongodb)](https://skillicons.dev)
 <br />
 
-#### 🔥 Frameworks
+**🔥 Frameworks**
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,sass,tailwind,bootstrap)](https://skillicons.dev)
 <br />
 
-#### 💬 Let's chat
+**💬 Let's chat**
 
 <a href="https://mohammedd.com" target="_blank">
     <img src="https://img.shields.io/badge/website-24292E?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /> 
