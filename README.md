@@ -17,20 +17,12 @@
 <br />
 
 **💬 Let's chat**
-<div>
-    <a href="https://mohammedd.com" target="_blank">
-        <img src="https://img.shields.io/badge/website-24292E?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /> 
-    </a>
-    <a href="https://t.me/mohammed_jabbar_019" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-24292E?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> 
-    </a>
-    <a href="https://twitter.com/Mohammedjabbar0" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-24292E?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
-    </a>
-</div>
+<br /> <br />
+[![Website](https://img.shields.io/badge/-Mohammedd.com-gray?logo=about.me&style=for-the-badge&logoColor=white)](https://mohammedd.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-gray?logo=Telegram&style=for-the-badge&logoColor=white)](https://t.me/mohammed_jabbar_019)
+[![Twitter](https://img.shields.io/badge/-Twitter-gray?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/Mohammedjabbar0)
 
-<br/><hr/>
-
+<hr/>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=22&duration=2000&pause=800&color=ADD8E6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Telegram;Always+learning%2C+never+not+growing;Full-stack%3F+more+like+full-snack;Teamwork+makes+the+dream+work" alt="Typing SVG" /></a>
 </p>
