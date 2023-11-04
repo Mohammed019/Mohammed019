@@ -17,16 +17,17 @@
 <br />
 
 **💬 Let's chat**
-
-<a href="https://mohammedd.com" target="_blank">
-    <img src="https://img.shields.io/badge/website-24292E?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /> 
-</a>
-<a href="https://t.me/mohammed_jabbar_019" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-24292E?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> 
-</a>
-<a href="https://twitter.com/Mohammedjabbar0" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-24292E?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
-</a>
+<div>
+    <a href="https://mohammedd.com" target="_blank">
+        <img src="https://img.shields.io/badge/website-24292E?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /> 
+    </a>
+    <a href="https://t.me/mohammed_jabbar_019" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-24292E?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> 
+    </a>
+    <a href="https://twitter.com/Mohammedjabbar0" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-24292E?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
+    </a>
+</div>
 
 <br/><hr/>
 
