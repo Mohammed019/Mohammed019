@@ -14,7 +14,7 @@
 
 **Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,vite,figma,redux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,vite,figma,redux,git,postman)](https://skillicons.dev)
 <br />
 
 **Let's talk**
