@@ -20,5 +20,5 @@
 **Let's talk**
 <br /> <br />
 [![Website](https://img.shields.io/badge/-Mohammedd.com-gray?logo=about.me&style=for-the-badge&logoColor=white)](https://mohammedd.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-gray?logo=Telegram&style=for-the-badge&logoColor=white)](https://t.me/mohammed_jabbar_019)
-[![Twitter](https://img.shields.io/badge/-Twitter-gray?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/Mohammedjabbar0)
+[![Telegram](https://img.shields.io/badge/-Telegram-gray?logo=Telegram&style=for-the-badge&logoColor=white)](https://t.me/Mohammed_jabbar)
+[![Twitter](https://img.shields.io/badge/-Twitter-gray?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/mohammedd_jabar)
