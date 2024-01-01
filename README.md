@@ -21,4 +21,4 @@
 <br /> <br />
 [![Website](https://img.shields.io/badge/-Mohammedd.com-gray?logo=about.me&style=for-the-badge&logoColor=white)](https://mohammedd.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-gray?logo=Telegram&style=for-the-badge&logoColor=white)](https://t.me/Mohammed_jabbar)
-[![Twitter](https://img.shields.io/badge/-Twitter-gray?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/mohammedd_jabar)
+[![Twitter](https://img.shields.io/badge/-LinkedIn-gray?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mohammedd-jabbar)
