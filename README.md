@@ -4,7 +4,7 @@
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,mysql,mongodb)](https://skillicons.dev)
 <br />
 
 **Frameworks**
