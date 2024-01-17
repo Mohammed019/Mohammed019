@@ -1,6 +1,6 @@
 **Toolset**
 
-<img src="./arch.svg" height="60" width="60"><img src="./code.svg" height="60" width="60"><img src="./firefox.svg" height="60" width="60">
+<img src="./arch.svg" height="60" width="60"><img src="./gnome.svg" height="60" width="60"><img src="./code.svg" height="60" width="60"><img src="./firefox.svg" height="60" width="60">
 
 **Languages**
 
