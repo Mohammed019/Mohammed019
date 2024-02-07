@@ -35,6 +35,9 @@
   Telegram: 0088cc
   linkedin: 0a66c2
 -->
+<!-- ![NodeJs](https://img.shields.io/badge/Node%20js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933) -->
+<!-- ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) -->
+<!-- ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699) -->
 
 **Toolset**
 
@@ -61,9 +64,6 @@
 
 ![ReactJs](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node%20js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 <br />
