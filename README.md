@@ -41,6 +41,7 @@
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=1793D1)
 ![VsCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 ![Brave](https://img.shields.io/badge/Brave-000000?style=for-the-badge&logo=Brave&logoColor=FF1B2D)
+<br />
 
 **Languages**
 
@@ -54,9 +55,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![Firebase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=3982CE)
-
 <br />
-
 
 **Frameworks**
 
