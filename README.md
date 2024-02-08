@@ -1,5 +1,5 @@
 <!---
-  primary color: 000000
+  primary color: #000000
 
   Arch Linux: 1793D1
   Vs Code: 0078D4
